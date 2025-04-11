@@ -1,0 +1,12 @@
+venv/
+venv
+joseph_senior_abrokwah
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.env
+*.DS_Store
